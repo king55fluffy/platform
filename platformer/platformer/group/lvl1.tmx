@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="64" tileheight="64" nextobjectid="20">
+ <tileset firstgid="1" name="Castle Tileset" tilewidth="64" tileheight="64" tilecount="72" columns="8">
+  <image source="//adldp1/Shared/Students/Game Programming Foundations/14 - Loading a Level/Castle Tileset.png" width="512" height="576"/>
+ </tileset>
+ <layer name="background" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmU2OwyAMhbPNoosuepAZNSeg9z/TqFKRPG/8jM1PQjtZPCkFB/vDDoF0XZZlfWl7aVWktTPbWjtmH/V9cpwcvTmuH8Rh9ddyXJ12J0esBt6FI0F/ahhrhnyU+KLxzcLB7qvlwDzj79Ec6Dcyzx67ZNiP4IjmIwV9avYjOTT/SVz3HHtPjlGS+UlC78Zx6tQs8q4zvdejXvLuDT3r+pFxP39r+3Y8V21ga7GMzhl7p/TiGHVG9NZPT47N8Jfvx3G9bKXvC6M4MMYSB46XyDXqDtrg+giOmpp7xvsgLKM4tLx7apLVSdaF2N4Vf7NwMN/MPucoLX/ngZ0V9uLwtiOLvJZtyBXhSAV77RzM4r0UWDB2xrSXsm/2fETXiaM4pNhz3vKePVq4XmHNHx1fi0bkpfYdN4KF7RO076qWLfYzH1K3yfJSK8kxU1zeOss2M3NE7P4bh7bvlf17fO9kdtvye31gsTwa/HhYLd+9eK37rT1OhCOrtGfSfLA4ZDvWnZw77z64dX/H5ry0h8f2W2GcXrmOjlfL8aXMnzaHtd/t9+RAu+gZMsKhnQm12o08Hx4OlqtSTVpzgTF57ivlQ9aNJx+e8bX/kNjZ9ruRw6qD3s96Sx1a/T8Cv7qW
+  </data>
+ </layer>
+ <layer name="collums" width="50" height="50" opacity="0.75" offsetx="0" offsety="-2">
+  <data encoding="base64" compression="zlib">
+   eJztmcuOwzAIRfmSLj27eD///2Gj0bQSQlzwAzvxiCtFcbADHD9auyUi+hJXoT9xGwk7KW3JKBcQQ/pDsYpox9twP8nxfI56IAfPmdfX93UKxydnGYNrFUdlbWc4Kivv4KggxiwHyhfZef/1csg5ylUpluMCdm0cPQ6eNx93lANaiyMcSNp7cox4HOtd1Fey/QoOLTaa5y3tLGkcVbFFCc1zKa//kV9tPe3iWOFX+5yOjN3bz6N+rbV5krT+WtWHqVQqtUPFKFvPsv3dSg79uYUNxZzRBcqzHFZ7jWPlfi2KA92lbQXLpcTbxWHxjLBa80zz+VQOrov8PfUJHJokF2eVZe0ubVq9FzOV2qXX3QkE6Un7pRklx7PkcUSun5VrsfU35AjdOfb/hSNyT5D7iz7t/E60YqG61vys+TvCaL0zsk+PWF8jPkbPFD0cWl8VYPfi9uYz6u9X3w1+os/9vb4+fdgzHh6HHBdrrJCss72VUw8H+s8HnTO1s7onzYcXH9VZ9lP1Ay9dRX0=
+  </data>
+ </layer>
+ <layer name="collision" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmMFuwyAMQH1Oe9py2qodtmP3A92S/v9nLZZizbIMGJoQU/EkS2kK1C8GSjtC+7wsMR6dxAZ0D190D190D190D190D190D190D190D190D19wj9sSP2vcWZubeE1tQPTjbWoyQPv1QIc32M9D1jDWTpsDFsjhHerUQ3P6SLRPwR1qeXBi+XNiLtKBPGb4ry2Pc2myG8HnHI9pia81LPVAv6NdUpBLal614sI9Qvm24MI9Yvl6XUOEnFe5zz7kVzM0jxIXD4TWeWsu6HEBPeeWXKgeNV2GjcdDyINCo8QllCudKTifxjFj7bhHqCZI7r40Zd63hJYbPpfTOu4I6Zp44Fu5h3WgM9Yzemjzx8ueZfWYA/1j66YmVo8QV3j8fDWI65L1reUwrfldIV6LFNZ9bBLXOVjXrOe1jZR4hH5LHvXfFPIs9bDMXSTHQ6vXo7XSxizZH7eqx69yj+9TObmV5LTXvJJnQvk9FDv3luSE4592CHR4FXER74f6zgWf9wdbWDy4
+  </data>
+ </layer>
+ <layer name="spikes" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1NENwCAIBUCWY/+VukBJ64eB1rsvE0x8oiECAKhkd4ChpvRlV46u+709dzVf93vlgAxfoVcAAADwL1ms7/ZV9XyoA+fK6J8R5hOn8M/pZt6uuQCIUwdI
+  </data>
+ </layer>
+ <layer name="ladder" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztlkEKwzAMBH0uhR79l9D0/89KcwgY48WOKzdaZwcMOUkaS0oSghBCCHFvFnCeVxZlyBrG+DwGxa1h5XPU/zaOe5bevHn9VnF/pTVvrf7euNYcedFprR/FbfF5deb4J7V7+nxPvKw6W+Thi9SDYVcQETwzIw9fyEMIDPP3I2WW/WD2SGeJ2WOW/5Lcg3XX8x6wupRmiXG+kAdbT9DdM/akhDzEXWB79yBmmXV5+KLmof3xhTx8MYvHzgbZbg8d
+  </data>
+ </layer>
+ <objectgroup color="#a00000" name="Enemies">
+  <object id="1" x="287.5" y="2767"/>
+  <object id="2" x="2206" y="3101"/>
+  <object id="3" x="2217" y="2912"/>
+  <object id="4" x="2893" y="3114"/>
+  <object id="5" x="2922" y="2854"/>
+  <object id="6" x="2562" y="2282"/>
+  <object id="7" x="2322" y="2282"/>
+  <object id="8" x="2492" y="2603"/>
+  <object id="9" x="2125" y="2600"/>
+  <object id="10" x="1532" y="2659"/>
+  <object id="11" x="1216" y="2647"/>
+  <object id="12" x="816" y="2588"/>
+  <object id="13" x="2125" y="1377"/>
+  <object id="14" x="2725" y="1576"/>
+  <object id="15" x="2647" y="920"/>
+  <object id="16" x="1972" y="605"/>
+  <object id="17" x="1389" y="851"/>
+  <object id="18" x="307" y="532"/>
+ </objectgroup>
+ <objectgroup color="#00a000" name="Goal">
+  <object id="19" x="139" y="534"/>
+ </objectgroup>
+</map>

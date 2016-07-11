@@ -4,6 +4,15 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/alexander.niels/Documents/Visual Studio 2015/Projects/platformer/platformer/Content/hero.png</File>
+    <File>C:/Users/alexander.niels/Documents/platform/platformer/platformer/Content/hero.png</File>
+    <File>C:/Users/alexander.niels/Documents/platform/platformer/platformer/Content/Arial.spritefont</File>
+    <File>C:/Users/alexander.niels/Documents/platform/platformer/platformer/Content/Tileset.png</File>
+    <File>C:/Users/alexander.niels/Documents/platform/platformer/platformer/Content/Level1.tmx</File>
+    <File>C:/Users/alexander.niels/Documents/platform/platformer/platformer/Content/walk.png</File>
+    <File>C:/Users/alexander.niels/Documents/platform/platformer/platformer/Content/heart.png</File>
+    <File>C:/Users/alexander.niels/Documents/platform/platformer/platformer/Content/Superhero_violin.ogg</File>
+    <File>C:/Users/alexander.niels/Documents/platform/platformer/platformer/Content/Jump.wav</File>
+    <File>C:/Users/alexander.niels/Documents/platform/platformer/platformer/Content/chest.png</File>
+    <File>C:/Users/alexander.niels/Documents/platform/platformer/platformer/Content/zombie.png</File>
   </SourceFiles>
 </SourceFileCollection>

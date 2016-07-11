@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="64" tileheight="64" nextobjectid="1">
+ <tileset firstgid="1" name="Castle Tileset" tilewidth="64" tileheight="64" tilecount="72" columns="8">
+  <image source="//adldp1/Shared/Students/Game Programming Foundations/14 - Loading a Level/Castle Tileset.png" width="512" height="576"/>
+ </tileset>
+ <layer name="Background" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzdUzkOwCAMy9oxb8r//8TSSpUhiQ1DpQ4R4rKNY9zMLigvCs+u7mbrKharS8XIcJ95wKjgxV2szgAexT+2Hyc9We1VvBUeo4X1uXs7y6VkyG3OBPaayUyn8+SPZLl966z2d/jYLKE21as/V+dF1rOvdQ/R7hSl
+  </data>
+ </layer>
+ <layer name="collision" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzFlMsKgzAQRbMT2q6sKy0uVNwUuo+v//8sExxhHK42D9ELl8TMzCFMYjJ1nlLjjH0nIEeuJQcxyYvVlbzRuKO5HLXxRPMG8CrmnuyqjrHv6B86c1eeT62UBrxY+fLyP/EB8B5qOTNum1eTvyKf96gUPE21oWqJV0YwEO+ntvccCfXhBXgjyENGfVhr1//DZV8+Cr1/e3sI4VmW7eVTLf2T78uHYtz23r6NCxplTn6wPgMAnQ9m
+  </data>
+ </layer>
+ <layer name="ramp left" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIMAKxGwD7YhRMApGwSggAQx0uQUARPgAFw==
+  </data>
+ </layer>
+ <layer name="ramp right" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BkAkYqmsNEJbNGwSggBAZTegMAFAwACA==
+  </data>
+ </layer>
+ <layer name="ladders" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFgwHwU9k88RFm3igY3mA0fwwu82AAAMo3AMA=
+  </data>
+ </layer>
+ <layer name="spike" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF1ASuUDwKRiYYjXv8wBUHe6QDcsJiMIQfAMWIAeQ=
+  </data>
+ </layer>
+ <layer name="platform" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2BoAjcgdgdiDyqYQ6kZo2AUjEQAALocAWQ=
+  </data>
+ </layer>
+ <layer name="chain" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYGBgUGegLhjs5ulT2bxRMApGwSgYiQAAtD0ApQ==
+  </data>
+ </layer>
+ <layer name="pillars" width="20" height="20" opacity="0.72">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIwnIUdk8tRFmnh6VzaMVwBbPlMQ9tnCkJCzoEY7k+BefHlxpiRw9+OTw6cEXbrjkaBnWAHBjAvk=
+  </data>
+ </layer>
+</map>

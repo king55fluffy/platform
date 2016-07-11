@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="64" tileheight="64" nextobjectid="40">
+ <tileset firstgid="1" name="Tileset" tilewidth="64" tileheight="64" tilecount="72" columns="8">
+  <image source="Tileset.png" width="512" height="576"/>
+ </tileset>
+ <layer name="Collisions" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJwTYaAeEAJikSFingoONVxAbEUA26GZh0+tDZnuoxRYArEUieaB9BDjX2L02+FRBwPI5qHbTYx+fOZRA2CLXx4qmIcMbBnI97McFvMoAWpEmIcrjWALH2LMIwRA4QMLF2TzqJFe9KjgPhgAxQW10h/ILDU85uEqu2ByoDKMmwESFyC+HhSDzJOBypGCQeWIMBa9IHEA4OsSwg==
+  </data>
+ </layer>
+ <objectgroup color="#a00000" name="enemies" opacity="0.9">
+  <object id="13" x="219" y="220"/>
+  <object id="14" x="283" y="220"/>
+  <object id="15" x="372" y="219"/>
+  <object id="16" x="740" y="168"/>
+  <object id="17" x="1087" y="355"/>
+  <object id="18" x="636" y="410"/>
+  <object id="19" x="329" y="477"/>
+  <object id="20" x="409" y="675"/>
+  <object id="22" x="1007" y="1124"/>
+  <object id="23" x="198" y="933"/>
+  <object id="25" x="388" y="932"/>
+  <object id="33" x="814.667" y="781.333"/>
+  <object id="34" x="714.667" y="786.667"/>
+  <object id="36" x="872" y="160"/>
+  <object id="37" x="438.667" y="1185.33"/>
+  <object id="38" x="705.333" y="1185.33"/>
+  <object id="39" x="578.667" y="1184"/>
+ </objectgroup>
+ <objectgroup color="#00a000" name="goal">
+  <object id="29" x="95.6667" y="222.667"/>
+ </objectgroup>
+</map>

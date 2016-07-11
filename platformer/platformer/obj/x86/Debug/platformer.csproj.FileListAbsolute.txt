@@ -25,3 +25,40 @@ C:\Users\alexander.niels\Documents\Visual Studio 2015\Projects\platformer\platfo
 C:\Users\alexander.niels\Documents\Visual Studio 2015\Projects\platformer\platformer\obj\x86\Debug\platformer.exe
 C:\Users\alexander.niels\Documents\Visual Studio 2015\Projects\platformer\platformer\obj\x86\Debug\platformer.pdb
 C:\Users\alexander.niels\Documents\Visual Studio 2015\Projects\platformer\platformer\bin\Windows\x86\Debug\MonoGame.Extended.dll
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\obj\x86\Debug\platformer.exe
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\obj\x86\Debug\platformer.pdb
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\Content\hero.xnb
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\platformer.exe
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\platformer.pdb
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\MonoGame.Extended.dll
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\obj\x86\Debug\platformer.csprojResolveAssemblyReference.cache
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\Content\Level1.xnb
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\Content\Tileset.xnb
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\Content\walk.xnb
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\Content\heart.xnb
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\Content\Jump.xnb
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\Content\Superhero_violin.wma
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\Content\Superhero_violin.xnb
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\Content\chest.xnb
+C:\Users\alexander.niels\Documents\platform\platformer\platformer\bin\Windows\x86\Debug\Content\zombie.xnb

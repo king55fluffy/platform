@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/alexander.niels/Documents/platform/platformer/platformer/Content/Level1.tmx</SourceFile>
+  <SourceTime>2016-06-29T17:29:48.2800418+09:30</SourceTime>
+  <DestFile>C:/Users/alexander.niels/Documents/platform/platformer/platformer/Content/bin/Windows/Level1.xnb</DestFile>
+  <DestTime>2016-06-29T17:29:51.3670418+09:30</DestTime>
+  <Importer>TiledMapImporter</Importer>
+  <ImporterTime>2016-06-06T18:27:45.7019854+09:30</ImporterTime>
+  <Processor>TiledMapProcessor</Processor>
+  <ProcessorTime>2016-06-06T18:27:45.7019854+09:30</ProcessorTime>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
